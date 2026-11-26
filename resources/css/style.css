@@ -9,7 +9,7 @@
 }
 
 li {
-    background-color: #ebb9d7;
+    background-color: #e9eff1;
     margin: 10px;
     height: 30px;
     width: 300px;
@@ -42,7 +42,7 @@ h1 {
     text-align: center;
     height: 500px;
     width: 400px;
-    background-color: #d45781;
+    background-color: #89e3ff;
     border-radius: 30px;
     position: absolute;
     border: solid hsl(0, 0%, 7%) 2px;
@@ -55,5 +55,5 @@ body {
     align-items: center;
     width: 100%;
     min-height: 100dvh;
-    background-color: #ebb9d7;
+    background-color: #a5e2f1;
 }
